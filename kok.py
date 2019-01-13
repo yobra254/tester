@@ -1,0 +1,7 @@
+print('Hello')
+print('This is another commit')
+print('just it')
+print('third commit')
+print('4th commit')
+print('5th commit')
+print('6th commit')
